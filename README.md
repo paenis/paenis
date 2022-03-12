@@ -1,3 +1,1 @@
-hi
-
-shitty code dump account sorry
+i dont know how to use git sorry
